@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
 
 body {
   margin: 0;
@@ -34,4 +34,12 @@ body {
   color: #c1440e !important;
   border: 1;
   border-color: #c1440e;
+}
+
+.text-shuiro {
+  color: #c1440e;
+}
+
+.bg-section {
+  background-color: #e8e5dc;
 }
