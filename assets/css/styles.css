@@ -58,3 +58,19 @@ body {
   align-items: center;
   font-size: 1.2rem;
 }
+
+
+.card-style {
+  width: 100%;
+  max-width: 24rem;
+}
+
+.link-style {
+  color: #373a3c;
+  text-decoration: none;
+}
+
+.link-style:hover {
+  color: #c1440e;
+  font-weight: 500;
+}
