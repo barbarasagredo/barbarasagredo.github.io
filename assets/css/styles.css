@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Varela+Round&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Varela+Round&display=swap");
 
 body {
   margin: 0;
@@ -9,12 +8,12 @@ body {
 }
 
 #Hero-Section {
-  background-image: url("../imgs/bg-hero.jpg");
-  background-repeat: no-repeat;
+  background: linear-gradient(rgba(116, 115, 115, 0.5)),
+    url("../imgs/bg-hero.jpg");
   background-size: cover;
-  background-position: left;
+  background-position: center;
+  background-repeat: no-repeat;
   height: 30em;
-  filter: opacity(0.8);
 }
 
 .text-shadow {
@@ -26,6 +25,7 @@ body {
   color: white;
   font-family: "Varela Round";
   letter-spacing: 0.15rem;
+  filter: opacity(0.9);
 }
 
 .btn-shuiro:hover {
@@ -37,6 +37,7 @@ body {
 
 .text-shuiro {
   color: #c1440e;
+  filter: opacity(0.9);
 }
 
 .bg-section {
