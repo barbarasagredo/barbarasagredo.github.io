@@ -1,6 +1,6 @@
 # 🌟 barbarasagredo.github.io
 
-¡Bienvenides a [mi sitio web!](barbarasagredo.github.io/)
+¡Bienvenides a [mi sitio web!](https://barbarasagredo.github.io/)
 
 ## 📌 Descripción
 
