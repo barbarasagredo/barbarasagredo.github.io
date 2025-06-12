@@ -4,7 +4,8 @@
 
 ## 📌 Descripción
 
-Este repositorio contiene los archivos fuente de mi sitio web personal donde comparto mi perfil profesional, proyectos, habilidades y formas de contacto.
+Este repositorio contiene los archivos fuente de mi sitio web personal donde comparto mi perfil profesional, proyectos, habilidades y formas de contacto. 
+#### (Mensaje para evaluadores: Al final de este markdown puedes encontrar los forks a repositorios de compañeros, según requisito del desafío.)
 
 ## 🛠️ Tecnologías:
 
@@ -30,16 +31,13 @@ barbarasagredo.github.io/
 ## 📥 Instalación y desarrollo local
 
 1. Clona el repositorio:
-   ```
-    git clone https://github.com/barbarasagredo/barbarasagredo.github.io.git
-   ```
-
+```
+git clone https://github.com/barbarasagredo/barbarasagredo.github.io.git
+```
 2.Entra al directorio:
-
 ```
 cd barbarasagredo.github.io/
 ```
-
 3. Abre index.html en tu navegador para ver la página.
 
 ## 🚀 Despliegue
@@ -57,8 +55,9 @@ Si deseas comunicarte conmigo, puedes hacerlo a través de mail: barpaz.sc@gmail
 ---
 
 ## 🤝🏼 Contribuciones a compañeros:
-
 #### Esta sección es parte de la última evaluación del primer módulo de Academia Desafío Latam.
 
-• [Camila Vargas:](https://github.com/camila-vargas1721/camila-vargas1721.github.io) forkeo + commit con sugerencias de cambios y Pull Request
+• [Camila Vargas:](https://github.com/camila-vargas1721/camila-vargas1721.github.io) forkeo + commit con sugerencias de cambios y Pull Request.
+
 • [Sebastián Costa:](https://github.com/sebastiancostagaete/sebastiancostagaete.github.io.git) forkeo + commit con sugerencias de cambios y Pull Request
+
